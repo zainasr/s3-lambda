@@ -1,0 +1,4 @@
+# For image processing
+Pillow==10.2.0
+# For AWS SDK (though Lambda has it, it's safer to pin a version in layers)
+boto3==1.34.0
